@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "FrGaming Launcher"
+
+[ejs.landing]
+mediaGitHubURL = ""
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/frgaming"
+
+[ejs.settings]
+sourceGithubLink = ""
+supportLink = "https://discord.gg/frgaming"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO FRGAMING SURVIVAL"
+welcomeDescription = "The offical launcher for the FrGaming Survival server."
+welcomeDescCTA = "You are just a few clicks away from the survival."
