@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "electron": "^26.3.0",
-    "electron-builder": "^24.6.4",
+    "electron-builder": "^24.13.3",
     "eslint": "^8.50.0"
   },
   "repository": {
